@@ -69,7 +69,12 @@
                 <div class="room-info">
                     <h4>GKT Lantai 1</h4>
                     <p>Kapasitas: 300</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -77,7 +82,12 @@
                 <div class="room-info">
                     <h4>GKT Lantai 2</h4>
                     <p>Kapasitas: 300</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -85,7 +95,12 @@
                 <div class="room-info">
                     <h4>MST Ruang Seminar</h4>
                     <p>Kapasitas: 30</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -93,7 +108,12 @@
                 <div class="room-info">
                     <h4>MST III/303</h4>
                     <p>Kapasitas: 30</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -101,7 +121,12 @@
                 <div class="room-info">
                     <h4>MST III/304</h4>
                     <p>Kapasitas: 30</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -109,7 +134,12 @@
                 <div class="room-info">
                     <h4>MST III/305</h4>
                     <p>Kapasitas: 30</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
             <div class="room-card">
@@ -117,7 +147,12 @@
                 <div class="room-info">
                     <h4>MST III/306</h4>
                     <p>Kapasitas: 30</p>
-                    <p>Fasilitas: WiFi, Proyektor, Kursi, AC</p>
+                    <ul>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">AC</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">WIFI</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">LCD</p>
+                        <p><img src="../../Sources/Icons/home.png" alt="Home Icon">SEAT</p>
+                    </ul>
                 </div>
             </div>
         </div>

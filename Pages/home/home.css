@@ -150,15 +150,15 @@ h3 {
     border-radius: 10px;
     overflow: hidden;
     width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
-    height: 120px;
+    height: 170px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px; /* Memberikan jarak antar card */
     padding: 10px;
 }
 
 .room-card img {
-    width: 150px; /* Lebar gambar */
-    height: 120px; /* Tinggi gambar */
+    width: 200px; /* Lebar gambar */
+    height: 170px; /* Tinggi gambar */
     object-fit: cover; /* Menjaga proporsi gambar */
     border-radius: 10px; /* Untuk membulatkan tepi gambar */
 }
@@ -178,3 +178,10 @@ h3 {
     font-size: 14px;
     color: #555;
 }
+
+.room-card ul img {
+    width: 15px; /* Set the icon size */
+    height: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
