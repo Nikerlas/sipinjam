@@ -117,7 +117,7 @@ body {
     padding: 0px;
     border-radius: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    width: 250px;
+    width: 200px;
     height: 200px;
 }
 
@@ -150,15 +150,15 @@ h3 {
     border-radius: 10px;
     overflow: hidden;
     width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
-    height: 150px;
+    height: 120px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px; /* Memberikan jarak antar card */
     padding: 10px;
 }
 
 .room-card img {
-    width: 200px; /* Lebar gambar */
-    height: 150px; /* Tinggi gambar */
+    width: 150px; /* Lebar gambar */
+    height: 120px; /* Tinggi gambar */
     object-fit: cover; /* Menjaga proporsi gambar */
     border-radius: 10px; /* Untuk membulatkan tepi gambar */
 }
